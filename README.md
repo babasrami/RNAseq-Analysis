@@ -1,11 +1,10 @@
-# RNAseq-Analysis
-Here's the polished GitHub README.md file for your project:
+
+
 
 ```markdown
 # Adrenal Gland Development Single-Cell Analysis
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)  
-*Last updated: April 2024*
+
 
 ## Overview
 This repository contains the analysis pipeline investigating developmental transitions in human adrenal glands using single-cell RNA sequencing data. The goal is to identify cell states and transcriptional programs associated with neuroblastoma origins, focusing on:
@@ -118,24 +117,6 @@ Uses diffusion pseudotime (DPT) with:
 
 ## License
 [MIT License](LICENSE)  
-Copyright (c) 2024 Your Name/Institution
+Copyright (c) 2025 Rami BABAS
 
----
 
-**Note**: Replace placeholder image links with actual figures from your analysis. Add institutional logos and Zenodo DOI for published results.
-```
-
-This README includes:
-- Clear section headers with emoji icons
-- Code snippets for workflow steps
-- Visual indicators for key results
-- Explicit software requirements
-- Reproducible installation instructions
-- Direct links to reference papers
-- Placeholders for final figures and DOI
-
-Make sure to:
-1. Update the Zenodo DOI with your actual publication DOI
-2. Replace figure placeholders with generated images
-3. Add institutional logos if available
-4. Include any additional documentation in the `docs/` directory
